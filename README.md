@@ -1,5 +1,8 @@
 # pre-requisites
 
+if youre looking for ideas, we have this -  https://github.com/AztecProtocol/dev-rel/blob/main/hackathons/INSPIRATION.md
+
+
 grants: https://twitter.com/Blulinski/status/1691137170655019008
 
 
