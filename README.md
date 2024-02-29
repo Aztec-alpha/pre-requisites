@@ -29,5 +29,6 @@ https://aztecnetwork.notion.site/Aztec-Grants-Wave-3-RFPs-acba57016db048868e5ed0
 
 - [noir代码](https://github.com/RareSkills/noir-puzzles)
 
-
+## Understanding Aztec
+- [Stealth Address](https://hackernoon.com/blockchain-privacy-enhancing-technology-series-stealth-address-i-c8a3eb4e4e43)
 
