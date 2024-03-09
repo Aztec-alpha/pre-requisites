@@ -34,3 +34,6 @@ https://aztecnetwork.notion.site/Aztec-Grants-Wave-3-RFPs-acba57016db048868e5ed0
 - [V1 Core logic](https://github.com/AztecProtocol/aztec-v1/blob/a47d3d9ea38cd1363ede730998145da663df6091/packages/documentation/styleguide/categories/Specification/ContractInteractions.md) and corresponding [contract](https://github.com/AztecProtocol/aztec-v1/blob/a47d3d9ea38cd1363ede730998145da663df6091/packages/protocol/contracts/ACE/noteRegistry/epochs/201907/Behaviour201907.sol#L39)
 - 6 The AZTEC joinsplit transactions of [whitepaper V1](https://github.com/AddressXception/AZTEC/blob/master/AZTEC.pdf)
 
+## Idears
+- [5 mini projects](https://twitter.com/omw_to_the_moon/status/1763595120551801204)
+
